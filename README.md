@@ -1,1 +1,2 @@
-# CREATIVITY-42-1.3.00.3-
+# p5.play-boilerplate
+Boiler plate for p5.play
